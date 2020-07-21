@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Slowhy's github stats](https://github-readme-stats.vercel.app/api?username=Slowhy)](https://github.com/Slowhy)
+### Hi there 
+[![Slowhy's github stats](https://github-readme-stats.vercel.app/api?username=Slowhy&show_icons=true)](https://github.com/Slowhy)
 <!--
 **Slowhy/Slowhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
